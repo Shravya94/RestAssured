@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-10T12:30:17Z" name="Default suite" finished-at="2021-05-10T12:30:20Z" duration-ms="2597">
+    <groups>
+    </groups>
+    <test started-at="2021-05-10T12:30:17Z" name="Default test" finished-at="2021-05-10T12:30:20Z" duration-ms="2597">
+      <class name="RestAssuredPackage.PostRequestClass">
+        <test-method signature="testcase1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAssuredPackage.PostRequestClass@6ee4d9ab]" started-at="2021-05-10T12:30:18Z" name="testcase1" data-provider="PostRequestdata" finished-at="2021-05-10T12:30:20Z" duration-ms="1757" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Science]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shravya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAssuredPackage.PostRequestClass@6ee4d9ab]" started-at="2021-05-10T12:30:20Z" name="testcase1" data-provider="PostRequestdata" finished-at="2021-05-10T12:30:20Z" duration-ms="97" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Commerce]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vanitha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAssuredPackage.PostRequestClass@6ee4d9ab]" started-at="2021-05-10T12:30:20Z" name="testcase1" data-provider="PostRequestdata" finished-at="2021-05-10T12:30:20Z" duration-ms="95" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arts]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Alphonsa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Lincy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAssuredPackage.PostRequestClass@6ee4d9ab]" started-at="2021-05-10T12:30:20Z" name="testcase1" data-provider="PostRequestdata" finished-at="2021-05-10T12:30:20Z" duration-ms="94" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Science]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dimpi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shetty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- RestAssuredPackage.PostRequestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
